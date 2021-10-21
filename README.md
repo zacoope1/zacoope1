@@ -1,4 +1,4 @@
-# Zachary Cooper
+## Zachary Cooper - ⌨️ Developer 💻 | 🦸‍♂️ Nerd 🎮 | 💾 Technology Enthusiast 👨‍💻
 ![Hello There Gif](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 - 👋 Hello there, I’m [Zachary Cooper](https://www.linkedin.com/in/zachary-cooper-92b2a5159/), and I am an associate software developer at [Neudesic](https://www.neudesic.com/).
 - 💖 I’m primarily interested in Full Stack Web Development & Game Development.
