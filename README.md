@@ -6,4 +6,4 @@
 - 📖 I’m currently learning AWS Cloud, Azure Cloud, Auth Flows, and Various Web Frameworks / Libraries.
 - 📫 How to reach me: You can email me at: email@zachary-cooper.com or message me on [Linkedin](https://www.linkedin.com/in/zachary-cooper-92b2a5159/).
 - 🤝 I’m looking to collaborate on any and all projects!
-- 🖥️ If you're interested, feel free to check out my [website](https://zachary-cooper.com)! (⚠️Currently Down)
+- 🖥️ If you're interested, feel free to check out my [website](https://zachary-cooper.com)!
